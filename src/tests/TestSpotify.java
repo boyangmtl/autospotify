@@ -28,7 +28,7 @@ public class TestSpotify extends BaseTest {
 
         LoginPage loginPage = new LoginPage(driver);
 
-        loginPage.loginToSpotify("yangbo@tuan1717.com", "Testauto@2021");
+        loginPage.loginToSpotify("xxxxxxxxxxxxxxx", "xxxxxxxxxxxx");
 
 
         Thread.sleep(3000);
