@@ -26,7 +26,7 @@ public class LoginPage extends BasePage {
     }
 
 
-    //*********Web Elements to be checked *********
+    //*********POM: locator of the web Elements to be used *********
 
     By usernameBy = By.id("login-username");
     By passwordBy = By.id("login-password");
