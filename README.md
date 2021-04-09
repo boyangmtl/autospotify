@@ -8,3 +8,10 @@ In file BaseTest.java  Line 18:  specify the path of your local chrome driver.
 
 In file TestSpotify.java     Line 31:   the testing account/password.
 
+    loginPage.loginToSpotify("xxxxxx", "xxxxxxxxx");
+    
+   
+   There are seven cases to check the function of the webplayer.
+   
+   ![image](https://user-images.githubusercontent.com/82223084/114209775-04eab200-992d-11eb-96da-98651832b2a0.png)
+
