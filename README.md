@@ -1,6 +1,8 @@
 The script is to test the webplayer of spotify.com with GEO:  Canada and Language eng.
 
-Config your local Java, which Selenium 3, Chrome's driver and TestNG.
+The automation testing suites only support English Language.
+
+Config your local Java, which supports Selenium 3, Chrome's driver and TestNG.
 
 In file BaseTest.java  Line 18:  specify the path of your local chrome driver.
 
