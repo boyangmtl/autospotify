@@ -58,16 +58,7 @@ public class TestSpotify extends BaseTest {
 
         Assert.assertEquals(webPlayerPage.checkElementPlayer(), true);
 
-        /*
-        webPlayerPage.playMusic();
-        
-        Thread.sleep(5000);
-        
-        webPlayerPage.playMusic(); 
-        
-        webPlayerPage.checkElementPlayer(); */
-
-
+    
 
     }
 
