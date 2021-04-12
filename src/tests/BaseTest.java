@@ -28,8 +28,8 @@ public class BaseTest {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
-    /*@AfterClass
+    @AfterClass
     public void teardown () {
         driver.quit();
-    }*/
+    }
 }
